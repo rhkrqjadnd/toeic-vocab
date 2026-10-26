@@ -1,0 +1,9 @@
+{
+  "name": "toeic-vocab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "토익 보카 트레이너 - 망각주기 기반 단어 암기 웹사이트",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
